@@ -1,2 +1,2 @@
 # SBDemoRepo
-Repo exercise for Springboard course
+Repo exercise for Springboard course.
